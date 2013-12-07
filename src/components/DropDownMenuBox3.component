@@ -1,0 +1,29 @@
+<apex:component >
+    <li>
+        <a>
+            <apex:outputText value="メニュー3" />
+        </a>
+        <ul>
+            <li>
+                <a href="#">
+                    <apex:outputText value="子メニュー" />
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <apex:outputText value="子メニュー" />
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <apex:outputText value="子メニュー" />
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <apex:outputText value="子メニュー" />
+                </a>
+            </li>
+        </ul>
+    </li>
+</apex:component>

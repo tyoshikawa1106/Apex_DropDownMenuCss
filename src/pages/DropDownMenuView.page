@@ -1,0 +1,14 @@
+<apex:page standardController="Account" id="page">
+    <apex:form id="form">
+        <c:DropDownMenu />
+        <br/>
+        <apex:pageBlock id="block">
+            <apex:pageBlockSection id="section">
+                <apex:inputField value="{!Account.Name}" />
+                <apex:inputField value="{!Account.AccountNumber}" />
+                <apex:inputField value="{!Account.Site}" />
+                <apex:inputField value="{!Account.Phone}" />
+            </apex:pageBlockSection>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

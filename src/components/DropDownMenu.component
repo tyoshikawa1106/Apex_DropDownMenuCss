@@ -1,0 +1,16 @@
+<apex:component id="dropDownMenu">
+    <apex:stylesheet value="{!$Resource.DropDownMenuCss}" />
+    <div>
+        <ul id="dropmenu">
+            <!-- Menu1 -->
+            <c:DropDownMenuBox1 />
+            <!-- Menu2 -->
+            <c:DropDownMenuBox2 />
+            <!-- Menu3 -->
+            <c:DropDownMenuBox3 />
+            <!-- Menu4 -->
+            <c:DropDownMenuBox4 />
+        </ul>
+    </div>
+    <div style="clear: both"></div>
+</apex:component>

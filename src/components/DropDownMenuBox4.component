@@ -1,0 +1,161 @@
+<apex:component >
+    <li class="leftView">
+        <a>
+            <apex:outputText value="メニュー4" />
+        </a>
+        <ul>
+            <li>
+                <a href="#">
+                    <apex:outputText value="子メニュー" />
+                </a>
+                <ul>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    <apex:outputText value="ひ孫メニュー" />
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <apex:outputText value="ひ孫メニュー" />
+                                </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <apex:outputText value="ひ孫メニュー" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <apex:outputText value="ひ孫メニュー" />
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <apex:outputText value="孫メニュー" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <apex:outputText value="孫メニュー" />
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">
+                        <apex:outputText value="子メニュー" />
+                    </a>
+                    <ul>
+                        <li>
+                            <a href="#">
+                                <apex:outputText value="孫メニュー" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <apex:outputText value="孫メニュー" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <apex:outputText value="孫メニュー" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <apex:outputText value="孫メニュー" />
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">
+                        <apex:outputText value="子メニュー" />
+                    </a>
+                    <ul>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                            <ul>
+                            <li>
+                                <a href="#">
+                                    <apex:outputText value="ひ孫メニュー" />
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <apex:outputText value="ひ孫メニュー" />
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <apex:outputText value="ひ孫メニュー" />
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <apex:outputText value="ひ孫メニュー" />
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">
+                    <apex:outputText value="子メニュー" />
+                </a>
+                <ul>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <apex:outputText value="孫メニュー" />
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</apex:component>
