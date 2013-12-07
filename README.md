@@ -11,5 +11,5 @@ CSSだけで作る「多階層」なドロップダウンメニューをVisualfo
 >*CSSだけで作る「多階層」なドロップダウンメニュー*  
 >http://weboook.blog22.fc2.com/blog-entry-383.html  
   
-パッケージURL
+パッケージURL  
 https://login.salesforce.com/packaging/installPackage.apexp?p0=04ti0000000L6yB
